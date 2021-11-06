@@ -28,6 +28,7 @@
 
 .nav-item > li {
   padding: 10px;
+  list-style-type: none;
 }
 
 .nav-item > input {
